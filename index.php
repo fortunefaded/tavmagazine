@@ -1,3 +1,0 @@
-testfile
-
-something clean words
